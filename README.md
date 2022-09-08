@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **s555352/s555352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
