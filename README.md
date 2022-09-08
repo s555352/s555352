@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me on phone
 - 😄 Pronouns: Nancy
 - ⚡ Fun fact: Always chilling
--->
