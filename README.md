@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**s555352/s555352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**s555352/s555352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 
 - 🔭 I’m currently working at Northwest Missouri State University
 - 🌱 I’m currently learning Computer Science
